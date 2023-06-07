@@ -1,5 +1,5 @@
-# TITLE
-### 6-BIT PARITY GENERATOR
+## TITLE
+## 6-BIT PARITY GENERATOR
 # SOFTWARE REQUIRED
 #### Hardware : PC
 #### Software : Quartus II Software
